@@ -1,12 +1,6 @@
 # Информация о наборе данных
-
-## Источник датасета
-Репозиторий данных Глобальной обсерватории здравоохранения (GHO) при Всемирной организации здравоохранения (ВОЗ)
-
-## Авторы датасета
-Kumar Rajarshi (Georgia Institute of Technology, USA), Deeksha Russell, Duan Wang
-
-Ссылка на оригинал датасета: [www.kaggle.com/datasets/kumarajarshi/life-expectancywho](https://www.kaggle.com/datasets/kumarajarshi/life-expectancywho)
+## Ссылка для скачивания
+https://github.com/ds-book/dataset-led/blob/main/Life%20Expectancy%20Data.csv
 
 ## Версия датасета
 
@@ -38,3 +32,9 @@ Kumar Rajarshi (Georgia Institute of Technology, USA), Deeksha Russell, Duan Wan
 - thinness 5-9 years — Распространѐнность худобы среди детей в возрасте от 5 до 9 лет (в процентах)
 - Income composition of resources — Индекс человеческого развития: комбинированный показатель, который характеризует развитие человека в стране с точки зрения состояния здоровья, получения образования и фактического дохода (изменяется в диапазоне от 0 до 1)
 - Schooling — Усреднѐнное количество лет, затрачиваемое гражданином страны на получение образования (среднее и высшее)
+
+## Источник датасета
+Репозиторий данных Глобальной обсерватории здравоохранения (GHO) при Всемирной организации здравоохранения (ВОЗ)
+
+## Авторы датасета
+Kumar Rajarshi (Georgia Institute of Technology, USA), Deeksha Russell, Duan Wang
